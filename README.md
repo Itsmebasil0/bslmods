@@ -13,7 +13,7 @@
 
 </br>
 
-<a href="https://github.com/dominator454"><img title="DOMINATOR" src="https://img.shields.io/badge/Author-nexusNw-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
+<a href="https://github.com/dominator454"><img title="DOMINATOR" src="https://img.shields.io/badge/Author-DOMINATOR-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
 <a href="https://github.com/dominator454/Gojo-Satoru"><img title="Stars" src="https://img.shields.io/github/stars/dominator454/Gojo-Satoru?color=54aeff&style=flat-square" /></a>
 <a href="https://github.com/dominator454/Gojo-Satoru/network/members"><img title="Forks" src="https://img.shields.io/github/forks/dominator454/Gojo-Satoru?color=54aeff&style=flat-square" /></a>
 <a href="https://github.com/dominator454/Gojo-Satoru/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/dominator454/Gojo-Satoru?label=watchers&color=54aeff&style=flat-square" /></a> <br>
