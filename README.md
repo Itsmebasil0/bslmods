@@ -121,7 +121,7 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/919968778724"><img src="https://img.shields.io/badge/Contact Nexus-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/919968778724"><img src="https://img.shields.io/badge/Contact DOMINATOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 </details>
