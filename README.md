@@ -28,13 +28,6 @@
 * [Git](https://git-scm.com/downloads)
 * [FFMPEG](https://ffmpeg.org/download.html)
 
-## ```Connect With Me```
-<p align="center">
-<a href="https://wa.me/919968778724"><img src="https://img.shields.io/badge/Contact DOMINATOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/JwU0S28WIzA1IYOtNkgnoJ"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCuYd8PWkU5QDCExj-ku8bGQ"><img src="https://img.shields.io/badge/Subscribe DOMINATOR-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
-</p>
-
 ```bash
 Add FFmpeg to PATH environment variable
 ```
@@ -130,6 +123,8 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ## ```Connect With Me```
 <p align="center">
 <a href="https://wa.me/919968778724"><img src="https://img.shields.io/badge/Contact DOMINATOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/JwU0S28WIzA1IYOtNkgnoJ"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://youtube.com/channel/UCuYd8PWkU5QDCExj-ku8bGQ"><img src="https://img.shields.io/badge/Subscribe DOMINATOR-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
 </details>
