@@ -4,7 +4,7 @@
 </p>
 
 ## Gojo-Satoru
-<a href="https://youtube.com/channel/UCuYd8PWkU5QDCExj-ku8bGQ"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/channel/UCuYd8PWkU5QDCExj-ku8bGQ" /><br>
+<a href="https://youtu.be/QZsFKKmwV7Y"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/channel/UCuYd8PWkU5QDCExj-ku8bGQ" /><br>
 > [Automated Multi Device whatsapp bot created](https://github.com/dominator454/Gojo-Satoru) by [DOMINATOR](github.com/dominator454)
 
 > Dont forget to give a star bro.🥲 IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
