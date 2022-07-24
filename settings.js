@@ -15,22 +15,22 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
+	'https://zenzapis.xyz': 'basilsr', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 
 //customize settings\\
-global.owner = ['91**********']
-global.premium = ['91**********']
-global.ownernomer = '91**********'
-global.ownername = '𝑺𝑶𝑼𝑳 𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑹'
-global.botname = '𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑻 𝑺𝑬𝑹 𝑩𝑶𝑻'
-global.footer = '©sᴇʀᴅᴏᴍɪɴᴀᴛᴏʀ'
-global.ig = 'https://github.com/dominator454'
+global.owner = ['18075001036,919544685703']
+global.premium = ['18075001036,919544685703']
+global.ownernomer = '18075001036,919544685703'
+global.ownername = '𝑩𝑺𝑳'
+global.botname = '𝑩𝑺𝑳 𝑺𝑬𝑹 𝑩𝑶𝑻'
+global.footer = '©ʙꜱʟᴍᴏᴅꜱ'
+global.ig = '🌝thekot noki irunal mathi'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/dominator454/Gojo-Satoru'
+global.sc = '🌝thekot noki irunal mathi'
 global.myweb = 'https://youtube.com/channel/UCuYd8PWkU5QDCExj-ku8bGQ'
-global.packname = '𝑰𝑻𝒁 𝑴𝑬 𝑺𝑶𝑼𝑳 𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑻'
-global.author = '𝑰𝑻𝒁 𝑴𝑬 𝑺𝑶𝑼𝑳 𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑹'
+global.packname = '⃞₄₄₇ᷩ₄ⷶ₄ᷤ₄ͥ₄ᷞ₅₃₆ᷤ₂ᷪ₀ᷢ⁩ '
+global.author = '⃞₄₄₇ᷩ₄ⷶ₄ᷤ₄ͥ₄ᷞ₅₃₆ᷤ₂ᷪ₀ᷢ⁩ '
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
