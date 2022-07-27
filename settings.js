@@ -1,6 +1,6 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
+//                               BSL WA BOT BY BASIL
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 //
 //════════════════════════════//
@@ -28,7 +28,7 @@ global.footer = '©ʙꜱʟᴍᴏᴅꜱ'
 global.ig = '🌝thekot noki irunal mathi'
 global.region = 'India, South India, Kerala'
 global.sc = '🌝thekot noki irunal mathi'
-global.myweb = 'https://youtube.com/channel/UCuYd8PWkU5QDCExj-ku8bGQ'
+global.myweb = 'https://youtube.com/channel/UCrnPCbv7jIKqAXQTllDV6Ng'
 global.packname = '⃞₄₄₇ᷩ₄ⷶ₄ᷤ₄ͥ₄ᷞ₅₃₆ᷤ₂ᷪ₀ᷢ⁩ '
 global.author = '⃞₄₄₇ᷩ₄ⷶ₄ᷤ₄ͥ₄ᷞ₅₃₆ᷤ₂ᷪ₀ᷢ⁩ '
 global.sessionName = 'session'
