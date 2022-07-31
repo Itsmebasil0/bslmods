@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/7Yz9IES.jpg" alt="nz" width="350"/>
 </p>
 
-## Gojo-Satoru
+## md
 <a href="https://youtu.be/QZsFKKmwV7Y"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/channel/UCuYd8PWkU5QDCExj-ku8bGQ" /><br>
 > [Automated Multi Device whatsapp bot created](https://github.com/itsmebasil0/bslmods) by [BASIL](github.com/itsmebasil)
 
