@@ -15,16 +15,16 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'basilsr', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
+	'https://zenzapis.xyz': 'achuefx', //credit goes to achu efx yt, if api key expire, buy it and put it here?\\
 }
 
 //customize settings\\
-global.owner = ['18075001036,919544685703']
-global.premium = ['18075001036,919544685703']
-global.ownernomer = '18075001036,919544685703'
-global.ownername = '𝑩𝑺𝑳'
-global.botname = '𝑩𝑺𝑳 𝑺𝑬𝑹 𝑩𝑶𝑻'
-global.footer = '©ʙꜱʟᴍᴏᴅꜱ'
+global.owner = ['919447872999']
+global.premium = ['919447872999']
+global.ownernomer = '919447872999'
+global.ownername = 'ａｃｈｕ ｅｆｘ'
+global.botname = 'ᴀcհմ ʍσʆ'
+global.footer = '©achuefx'
 global.ig = '🌝thekot noki irunal mathi'
 global.region = 'India, South India, Kerala'
 global.sc = '🌝thekot noki irunal mathi'
@@ -32,7 +32,7 @@ global.myweb = 'https://youtube.com/channel/UCrnPCbv7jIKqAXQTllDV6Ng'
 global.packname = '⃞₄₄₇ᷩ₄ⷶ₄ᷤ₄ͥ₄ᷞ₅₃₆ᷤ₂ᷪ₀ᷢ⁩ '
 global.author = '⃞₄₄₇ᷩ₄ⷶ₄ᷤ₄ͥ₄ᷞ₅₃₆ᷤ₂ᷪ₀ᷢ⁩ '
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','0','🙂','💎','*']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
@@ -42,7 +42,7 @@ global.mess = {
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
+    wait: 'ippo sheriyakitheram...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
